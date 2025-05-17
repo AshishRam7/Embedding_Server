@@ -1,7 +1,8 @@
-fastapi 
-uvicorn[standard] 
-transformers 
-pydantic
-hf_xet
-torch
+fastapi
+uvicorn 
+python-dotenv 
+numpy 
 optimum[onnxruntime]
+sentence-transformers 
+torch 
+transformers
